@@ -1,0 +1,4 @@
+a=0a;
+if a>0 then
+b=1;
+end
