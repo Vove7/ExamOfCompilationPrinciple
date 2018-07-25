@@ -16,7 +16,7 @@
 
 ## Demo
 
-### EXAM 1
+### EXAM 1 词法分析设计
 
 * case 1
 
@@ -46,7 +46,7 @@
 
   ![case 2 output](screenshot/1-2.png)
 
-### EXAM 2
+### EXAM 2 LL(1)语法分析法
 
 * case 1
 
